@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">steam</string>
+    <string name="account_name">ACCOUNT NAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="password_hint">**************</string>
+</resources>
